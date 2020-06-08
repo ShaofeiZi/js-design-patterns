@@ -1,10 +1,10 @@
-js-design-patterns
+Js设计模式
 ==================
 
-! For EcmaScript 6 implementation: http://loredanacirstea.github.io/es6-design-patterns/
+! 使用 EcmaScript 6 实现: http://ShaofeiZi.github.io/es6-design-patterns/
 
-Software design patterns implemented in JavaScript:
+用JavaScript实现的软件设计模式:
 
-http://loredanacirstea.github.io/js-design-patterns/
+http://ShaofeiZi.github.io/js-design-patterns/
 
 This work is licensed under MIT.
